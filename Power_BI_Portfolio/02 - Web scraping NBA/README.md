@@ -12,4 +12,4 @@
  * Pycharm - Desenvolver os script em Python.
  
 **Projeto Final:**
- * [Dashboard NBA Power BI](https://app.powerbi.com/links/d3sUvjCcNA?ctid=4ad1bf61-d192-44b2-a40a-6c3d60b10b84&pbi_source=linkShare)
+ * [Dashboard NBA](https://app.powerbi.com/links/d3sUvjCcNA?ctid=4ad1bf61-d192-44b2-a40a-6c3d60b10b84&pbi_source=linkShare)
