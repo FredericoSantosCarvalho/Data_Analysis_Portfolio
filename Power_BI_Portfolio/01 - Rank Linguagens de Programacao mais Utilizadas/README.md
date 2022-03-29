@@ -1,4 +1,4 @@
-# Webscraping NBA
+# Dashboard Linguagens de Programação mais utilizadas no GitHub
 
 **Objetivos:**
 * Treinar os conhecimentos adquiridos.
