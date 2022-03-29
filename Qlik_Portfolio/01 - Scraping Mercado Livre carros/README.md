@@ -14,7 +14,8 @@
  **Ferrametas e Bibliotecas:**
  * urlopen - Entrar no site
  * BeautifulSoup - De maneira geral para tratar os dados em html para texto, claro existe muitos outros procedimentos nesse processo.
- * Power BI
  * Qlik
  * Pycharm - Desenvolver os script em Python.
 
+**Projeto Final:**
+ ![Dashboard Mercado Livre Anuncios de Carros](image.png)
